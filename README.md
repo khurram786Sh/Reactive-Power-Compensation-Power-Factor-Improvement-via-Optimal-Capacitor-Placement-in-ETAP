@@ -1,0 +1,2 @@
+# Reactive-Power-Compensation-Power-Factor-Improvement-via-Optimal-Capacitor-Placement-in-ETAP
+This project optimizes reactive power compensation and power factor improvement using Optimal Capacitor Placement (OCP) in ETAP software. By strategically placing capacitors, it reduces reactive power demand, enhances system efficiency, and improves voltage stability, offering a cost-effective alternative to transformer tapping.
